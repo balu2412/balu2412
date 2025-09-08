@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm bal reddy</h1>
-<h3 align="center">I’m an aspiring Software Developer passionate about **Java**, **Data Structures & Algorithms**, and **Machine Learning**. Currently on a journey to master core development and problem-solving skills with a long-term goal of landing a role in a top tech company.</h3>
+<h3 align="center">I’m an aspiring Software Developer passionate about **Java**, **Data Structures & Algorithms**, and **DEVOPS**. Currently on a journey to master core development and problem-solving skills with a long-term goal of landing a role in a top tech company.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=balu2412&label=Profile%20views&color=0e75b6&style=flat" alt="balu2412" /> </p>
 
