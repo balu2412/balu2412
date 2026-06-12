@@ -73,13 +73,13 @@ balreddy = {
 
 ---
 
-### 🛣️ Pothole Management System — Smart Road Maintenance
+### 🛣️ Smart Civic System — Smart Road Maintenance
 > Python · OpenCV · Flask · MySQL
 
 - Image-based road defect detection model — improved issue identification efficiency by **40%**
 - MySQL-powered prioritization engine ranking repairs by severity, location, and traffic volume
 
-🔗 [View Repository](https://github.com/balu2412)
+🔗 [View Repository](https://github.com/balu2412/smart-civic)
 
 ---
 
@@ -93,10 +93,6 @@ balreddy = {
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=balu2412&theme=tokyonight&hide_border=true"/>
 </p>
-
----
-
-> 190+ problems · Focus: Arrays, Trees, Dynamic Programming, Graphs · Medium & Hard emphasis
 
 ---
 
