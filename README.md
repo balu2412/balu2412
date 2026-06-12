@@ -96,12 +96,6 @@ balreddy = {
 
 ---
 
-## 🏆 LeetCode Progress
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/balreddy?theme=dark&font=Fira%20Code&ext=activity&hide=ranking" alt="LeetCode Stats"/>
-</p>
-
 > 190+ problems · Focus: Arrays, Trees, Dynamic Programming, Graphs · Medium & Hard emphasis
 
 ---
@@ -115,13 +109,6 @@ balreddy = {
 | 📘 Python Fundamentals for Beginners | Great Learning |
 
 ---
-
-## 💼 Experience
-
-**Frontend Developer Intern — Vishwasri Technologies** *(Sep 2025)*
-- Built responsive web interfaces improving cross-device consistency by **30%**
-- Connected frontend to REST APIs, reducing response delay by **25%**
-- Performance tuning reduced page load time by **35%**
 
 ---
 
